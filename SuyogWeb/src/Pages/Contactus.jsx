@@ -133,7 +133,7 @@ export default function ContactUs() {
           }`}
         >
           <h1 className="mb-4 text-3xl font-bold text-transparent bg-gradient-to-r from-blue-900 via-purple-900 to-pink-900 bg-clip-text sm:text-4xl lg:text-5xl">
-            ContactUs Any time 
+            ContactUs
           </h1>
           
           <div className="flex justify-center mb-6">
